@@ -1,6 +1,6 @@
 
-Std1_M = [E,T,M,S,SS,H] = [86, 78, 98, 75, 58]
+Std1_MLY = [E,T,M,S,SS,H] = [76, 88, 88, 85, 68]
 Std1_T = 0
-for i in Std1_M:
+for i in Std1_MLY:
     Std1_T = Std1_T + i
-print(Std1_M, Std1_T)
+print(Std1_MLY, Std1_T)
